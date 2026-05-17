@@ -43,10 +43,10 @@ Master in Business Analytics student at ESADE with a hands-on focus on shipping 
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4>pdai-assignment2</h4>
-      <p>LLM features on the Energy Forecast app: scenario parsing, AI optimizer, and a RAG-based experiment log analyst.</p>
+      <h4>The Devil's Advocate</h4>
+      <p>AI rental-contract analyzer with a multi-agent debate architecture (Tenant Advocate, Landlord Lawyer, Judge) on top of embeddings-based clause screening.</p>
       <p>
-        <a href="https://github.com/AlexandercSchumacher/pdai-assignment2"><img src="https://img.shields.io/badge/repo-%E2%86%92-4F46E5?style=flat-square" /></a>
+        <a href="https://github.com/AlexandercSchumacher/signability-checker-app"><img src="https://img.shields.io/badge/repo-%E2%86%92-4F46E5?style=flat-square" /></a>
       </p>
     </td>
   </tr>
